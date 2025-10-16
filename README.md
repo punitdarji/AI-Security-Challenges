@@ -46,5 +46,5 @@ Watch the accompanying video series to understand the theory, code, and solution
 
 - [YouTube Link: AI Reasoning: Functionality or Vulnerability?](https://youtu.be/jcOPUsfUYZY)
 
-- [YouTube Link: Overreliance and Command Injection]()
+- [YouTube Link: Overreliance and Command Injection](https://youtu.be/W8V1SY02DOg)
 
