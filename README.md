@@ -14,8 +14,9 @@ Requirements 📦
 ```
 pip install -r requirements.txt 
 ```
-**OR** You can run the following command
-```pip install pydantic==1.10.13
+**OR**  You can run the following command
+```
+pip install pydantic==1.10.13
 ```
 
 **Step 3** Run the Specific Challenge: Execute the main application file for the challenge you wish to attempt.
