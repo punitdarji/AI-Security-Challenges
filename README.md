@@ -12,11 +12,11 @@ Requirements 📦
 
 Create requirements.txt: In the same folder, create a file named requirements.txt and add the following lines to it:
 ```
-pip3 install pydantic==1.10.13
+pip install pydantic==1.10.13
 ```
 OR You can run the following command
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Run the Specific Challenge: Execute the main application file for the challenge you wish to attempt.
